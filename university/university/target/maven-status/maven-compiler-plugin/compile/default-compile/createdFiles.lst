@@ -1,0 +1,11 @@
+com\university\model\Department.class
+com\university\repository\DepartmentRepository.class
+com\university\UniversityApplication.class
+com\university\model\Student.class
+com\university\repository\StudentRepository.class
+com\university\model\Note.class
+com\university\controller\NoteController.class
+com\university\controller\StudentController.class
+com\university\controller\DepartmentController.class
+com\university\exception\ResourceNotFoundException.class
+com\university\repository\NoteRepository.class

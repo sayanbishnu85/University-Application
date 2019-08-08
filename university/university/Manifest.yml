@@ -1,0 +1,7 @@
+---
+applications:
+- name: university
+  memory: 1G
+  path: target\university-0.0.1-SNAPSHOT.jar
+  instances: 1
+  random-route: true
